@@ -1,3 +1,2 @@
 # Airbnb Web Scraping
-Hello\n
-grgr
+### Objective: Crawl the Airbnb Website to extract data based on user's search input and output a debreif of all available stays
