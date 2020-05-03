@@ -37,7 +37,7 @@ In light of the global recession coupled with the sudden spread of the Covid-19 
 
 #### Resources
 - Kaggle - Startup Investments (Crunchbase)
-  - https://www.kaggle.com/arindam235/startup-investments-crunchbase#investments_VC.csv
+  - https://www.kaggle.com/arindam235/startup-investments-crunchbase
 - Startup Ranking Website
   - https://www.startupranking.com/
 
