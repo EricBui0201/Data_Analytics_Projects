@@ -1,2 +1,3 @@
 # Airbnb Web Scraping
-### Objective: Crawl the Airbnb Website to extract data based on user's search input and output a debreif of all available stays
+#### Main Objective: Conduct an exhaustive scraping on all stays available at Airbnb in the major cities of France, and perform a supply-demand analysis to come up with a supply management scheme to accurately meet market's need
+#### Problem Definition: 
