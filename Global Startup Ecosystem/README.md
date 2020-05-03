@@ -1,4 +1,6 @@
 # Global Startup Ecosystem
+<img src="Images/img_11.png" width="150">
+<img src="Images/img_22.png" width="150">
 
 ### Main Objective
 Analyze the evolution of the global startup scene from 1990 until 2020 based on number of startups, categories, and investment types
@@ -52,5 +54,9 @@ In light of the global recession coupled with the sudden spread of the Covid-19 
   - Graphs 
 
 #### Results
-
-
+<img src="Images/img1.png" width="1000">
+<img src="Images/img2.png" width="700">
+<img src="Images/img3.png" width="1000">
+<img src="Images/img4.png" width="1000">
+<img src="Images/img5.png" width="1000">
+<img src="Images/img6.png" width="1000">
