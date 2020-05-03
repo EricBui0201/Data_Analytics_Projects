@@ -2,7 +2,7 @@
 <img src="Images/img_11.png" width="150">
 <img src="Images/img_22.png" width="150">
 
-### Main Objective
+### Objective
 Analyze the evolution of the global startup scene from 1990 until 2020 based on number of startups, categories, and investment types
 
 #### Problem Definition
