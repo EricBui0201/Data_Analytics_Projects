@@ -1,4 +1,6 @@
 # Airbnb Web Scraping
+<img src="Images/img_1.png" width="100">
+
 ### Main Objective
 Conduct an exhaustive scraping on all stays available at Airbnb in the major cities of France, and perform a supply-demand analysis to come up with a supply management scheme to accurately meet market's need. Accordingly, this project will be divided into multiple tasks.
 
@@ -33,3 +35,4 @@ A friend of mine is coming to Paris, France to undego the Data Analytics bootcam
 - The output was matching the web server search via an Incognito Mode
 
 #### Results
+<img src="Images/img_2.png" width="1000">
