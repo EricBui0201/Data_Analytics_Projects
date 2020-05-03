@@ -1,6 +1,6 @@
 # Global Shark Attack
 
-# Objective
+#### Objective
 Clean and analyze our dataset to delve into the world of sharks and better understand their behavior, in an effort to lessen the likelihood of their attacks
 
 #### Tools Used
