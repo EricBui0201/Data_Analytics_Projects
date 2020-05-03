@@ -57,3 +57,6 @@ Analyzed India's community health insurance scheme post 2010 and forecasted futu
     - Homoskedasticity - Breusch-Pagan
     - Exogeneity of Residuals
     - Model Accuracy (RMSE) 
+- Results
+<img src="Images/img1.png" width="500">
+<img src="Images/img2.png" width="500">
