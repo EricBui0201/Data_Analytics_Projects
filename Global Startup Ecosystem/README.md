@@ -46,7 +46,7 @@ In light of the global recession coupled with the sudden spread of the Covid-19 
 - Web Scraping
   - https://www.startupranking.com/
 - Data Cleaning
-  - e.g. Repetitive, Duplicates, Null Values, Missing Data, Irregular Data (Outliers), Inconsistent Data (Capitalization, Format, ...)
+  - e.g. Uniformative or Repetitive Data, Duplicates, Null Values, Missing Data, Irregular Data (Outliers detection via plots or descriptive statistics), Inconsistent Data (e.g. Capitalization, Format)
 - Analysis and Visualization
   - Descriptive and Predictive Analysis
   - Graphs 
