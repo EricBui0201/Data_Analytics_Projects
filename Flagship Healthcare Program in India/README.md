@@ -1,6 +1,6 @@
 # Flagship Healthcare Program in India
 
-### Main Objective
+### Objective
 Analyzed India's community health insurance scheme post 2010 and forecasted future claims using a Multiple Linear Regression model
 
 #### Problem Definition
