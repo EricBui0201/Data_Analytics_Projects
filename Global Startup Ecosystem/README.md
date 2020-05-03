@@ -3,7 +3,7 @@
 <img src="Images/img_22.png" width="150">
 
 ### Objective
-Analyze the evolution of the global startup scene from 1990 until 2020 based on number of startups, categories, and investment types
+Analyzed the evolution of the global startup scene from 1990-2020 based on number of startups, startup categories, and funding types
 
 #### Problem Definition
 In light of the global recession coupled with the sudden spread of the Covid-19 pandemic, a good friend of mine has unfortunately been forced to quit his job due to the economic and financial downturn his company was facing. As a result, he thought that it would only seem reasonable in such dire times to venture in a business startup. Unfortunately, my friend has no information on the global startup scene and has asked me to brief him on it so that he can go ahead and plan his next steps. My analysis will contain the following:
