@@ -1,7 +1,7 @@
 # Airbnb Web Scraping
 <img src="Images/img_1.png" width="100">
 
-### Main Objective
+### Objective
 Conduct an exhaustive scraping on all stays available at Airbnb in the major cities of France, and perform a supply-demand analysis to come up with a supply management scheme to accurately meet market's need. Accordingly, this project will be divided into multiple tasks.
 
 ### Task 1
