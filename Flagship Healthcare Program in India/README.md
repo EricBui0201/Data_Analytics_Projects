@@ -1,7 +1,7 @@
 # Flagship Healthcare Program in India
 
 ### Objective
-Analyzed India's community health insurance scheme post 2010 and forecasted future claims using a Multiple Linear Regression model
+Analyzed India's community health insurance scheme from 2007-2020 and forecasted the future value of claims (Indian Rupee) using Multiple Linear Regression
 
 #### Problem Definition
 
