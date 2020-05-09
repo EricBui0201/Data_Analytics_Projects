@@ -55,7 +55,7 @@ In light of the global recession coupled with the sudden spread of the Covid-19 
 
 #### Results
 <img src="Images/img1.png" width="1000">
-<img src="Images/img2.png" width="700">
+    <img src="Images/img2.png" width="700">
 <img src="Images/img3.png" width="1000">
 <img src="Images/img4.png" width="1000">
 <img src="Images/img5.png" width="1000">
