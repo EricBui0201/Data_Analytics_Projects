@@ -59,7 +59,7 @@ Analyzed India's community health insurance scheme from 2007-2020 and forecasted
     - Model Accuracy (RMSE) 
 - Results
 <img src="Images/img1.png" width="600">
-<img src="Images/img2.png" width="600">
+<img src="Images/img2.png" width="500">
 <img src="Images/img3.png" width="500">
 <img src="Images/img4.png" width="500">
 
