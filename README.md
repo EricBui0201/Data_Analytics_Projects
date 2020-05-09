@@ -1,1 +1,1 @@
-## Personal Data Analytics Projects Portfolio
+## Personal Data Analytics Portfolio
