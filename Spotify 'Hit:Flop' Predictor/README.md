@@ -26,7 +26,17 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
     - sklearn.tree
     - xgboost
     - sklearn.metrics
-    -
 - Repl
 - Spyder
 - Trello
+
+#### Resources
+- Kaggle - The Spotify Hit Predictor Dataset (1960-2019)
+  - https://www.kaggle.com/theoverman/the-spotify-hit-predictor-dataset#dataset-of-00s.csv
+- Spotify for Developers Website
+  - https://developer.spotify.com/
+  
+#### Process
+- Data Acquisition
+  - Kaggle Dataset: The Spotify Hit Predictor Dataset (1960-2019)
+  - 
