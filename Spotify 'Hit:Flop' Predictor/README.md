@@ -64,5 +64,4 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
   - Random Forest
   - Decision Tree Classifier
   - XGBoost
-    - 
   
