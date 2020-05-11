@@ -1,5 +1,5 @@
 # Spotify Hit/Flop Predictor
-<img src="Images/img1.png" width="250">
+<img src="Images/img11.png" width="250">
 
 ### Objective
 Develop an accurate Classification model that can predict whether a newly released song on Spotify could become a hit, i.e. a song that might be featured in the weekly billboard charts and potentially become popular in the mainstream.
@@ -69,4 +69,10 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
   - Graphs 
 
 #### Results
+<img src="Images/img1.png" width="1000">
+<img src="Images/img2.png" width="1000">
+<img src="Images/img3.png" width="1000">
+<img src="Images/img4.png" width="1000">
+<img src="Images/img5.png" width="1000">
+<img src="Images/img6.png" width="1000">
 
