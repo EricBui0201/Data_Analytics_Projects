@@ -39,4 +39,30 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
 #### Process
 - Data Acquisition
   - Kaggle Dataset: The Spotify Hit Predictor Dataset (1960-2019)
-  - 
+  - 2 csv files : 
+    - Dataset for the 00s, starting from 1/1/2000 - 31/12/2009
+    - Dataset for the 10s, starting from 1/1/2010 - 31/12/2019
+  - Shape of combined datasets: 12,270 rows, 19 columns
+- Data Cleaning
+  - e.g. Uniformative or Repetitive Data, Duplicates, Null Values, Missing Data, Irregular Data (Outliers detection via plots or descriptive statistics)
+- Checking Assumption 
+  - e.g. Multicollinearity for Logistic Regression Model
+- Feature Scaling
+  - Units transformation
+  - Normalization e.g.MinMaxScaler
+- Feature Engineering
+  - Filter Based
+    - F-Classification
+    - Chi-2
+  - Wrappers
+    - RFE (Logistic Regression)
+    - SFS (Logistic Regression)
+  - PCA
+    - Dimensionality Reduction
+- Modeling
+  - Logistic Regression
+  - Random Forest
+  - Decision Tree Classifier
+  - XGBoost
+    - 
+  
