@@ -78,6 +78,6 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
 <img src="Images/img2.png" width="500">
 <img src="Images/img3.png" width="350">
 <img src="Images/img4.png" width="750">
-<img src="Images/img5.png" width="750">
-<img src="Images/img6.png" width="950">
+<img src="Images/img5.png" width="825">
+<img src="Images/img6.png" width="775">
 
