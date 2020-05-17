@@ -28,3 +28,39 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
 - Repl
 - Spyder
 - Trello
+
+#### Resources
+- Kaggle - Google Play Store Apps
+  - https://www.kaggle.com/lava18/google-play-store-apps
+- Google Play Store Website
+  - https://play.google.com/store
+  
+#### Process
+- Data Acquisition
+  - Kaggle Dataset: Google Play Store Apps
+  - Shape of datasets: 10,841 rows, 13 columns
+- Data Cleaning
+  - e.g. Uniformative or Repetitive Data, Duplicates, Null Values, Missing Data, Irregular Data (Outliers detection via plots or descriptive statistics)
+- Checking Assumption 
+  - Multicollinearity for Logistic Regression Model
+- Feature Scaling
+  - Units transformation
+  - Log Scaling
+- Feature Engineering
+  - Filter Based
+    - F-Classification
+  - PCA
+    - Dimensionality Reduction
+  - Clustering
+    - Kmeans
+    - Agglomerative 
+    - Kmodes
+  - Evaluation
+    - Silhoutte
+    - Davies-Bouldin
+- Modeling
+  - Logistic Regression
+  - Random Forest
+- Analysis and Visualization
+  - Descriptive and Predictive Analysis
+  - Graphs 
