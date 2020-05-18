@@ -62,8 +62,8 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
     - Silhoutte
     - Davies-Bouldin
 - Modeling
-  - Logistic Regression
-  - Random Forest
+  - Multivariate Logistic Regression
+  - Multivariate Random Forest
 - Analysis and Visualization
   - Descriptive and Predictive Analysis
   - Graphs 
