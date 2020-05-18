@@ -55,7 +55,7 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
   - Units transformation
   - Log Scaling
   
-  <img src="Images/img_6.png" width="1000">
+  <img src="Images/img_6.png" width="750">
 
 - Checking Assumption 
   - Multicollinearity for Logistic Regression Model
