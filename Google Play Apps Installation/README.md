@@ -38,8 +38,15 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
 - Data Acquisition
   - Kaggle Dataset: Google Play Store Apps
   - Shape of datasets: 10,841 rows, 13 columns
+ 
+ <img src="Images/img_1.png" width="1000">
+ 
 - Data Cleaning
   - e.g. Data Type Correction, Uniformative or Repetitive Data, Duplicates, Null Values, Missing Data, Irregular Data (Outliers detection via plots & descriptive statistics)
+  
+  <img src="Images/img_2.png" width="1500">
+  <img src="Images/img_4.png" width="1000">
+
 - Data Transformation
   - Label Encoding - Ordinal Categorical Variable
   - Binning - Target Variable (5 Installation Brackets)
@@ -47,6 +54,9 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
 - Feature Scaling
   - Units transformation
   - Log Scaling
+  
+  <img src="Images/img_6.png" width="1000">
+
 - Checking Assumption 
   - Multicollinearity for Logistic Regression Model
 - Feature Engineering
@@ -61,9 +71,29 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
   - Evaluation
     - Silhoutte
     - Davies-Bouldin
+    
+   <img src="Images/img_7.png" width="1000">
+   <img src="Images/img_8.png" width="1000">
+   <img src="Images/img_9.png" width="1000">
+   <img src="Images/img_10.png" width="1000">
+   <img src="Images/img_11.png" width="1000">
+   <img src="Images/img_12.png" width="1000">
+   <img src="Images/img_13.png" width="1000">
+   <img src="Images/img_18.png" width="1000">
+   <img src="Images/img_19.png" width="1000">
+   <img src="Images/img_20.png" width="1000">
+
+    
 - Modeling
   - Multivariate Logistic Regression
   - Multivariate Random Forest
 - Analysis and Visualization
   - Descriptive and Predictive Analysis
   - Graphs 
+    
+   <img src="Images/img_14.png" width="1000">
+   <img src="Images/img_15.png" width="1000">
+   <img src="Images/img_16.png" width="1000">
+   <img src="Images/img_17.png" width="1000">
+
+
