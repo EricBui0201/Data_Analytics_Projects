@@ -41,8 +41,9 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
 - Data Cleaning
   - e.g. Data Type Correction, Uniformative or Repetitive Data, Duplicates, Null Values, Missing Data, Irregular Data (Outliers detection via plots & descriptive statistics)
 - Data Transformation
-  - Label Encoding (to Ordinal Categorical Variable)
-  - Binning (Target Variable)
+  - Label Encoding - Ordinal Categorical Variable
+  - Binning - Target Variable (5 Installation Brackets)
+  - Grouping 
 - Feature Scaling
   - Units transformation
   - Log Scaling
