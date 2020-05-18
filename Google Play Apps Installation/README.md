@@ -72,10 +72,10 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
     - Silhoutte
     - Davies-Bouldin
     
-   <img src="Images/img_7.png" width="1000">
-   <img src="Images/img_8.png" width="1000">
-   <img src="Images/img_9.png" width="1000">
-   <img src="Images/img_10.png" width="1000">
+   <img src="Images/img_7.png" width="350">
+   <img src="Images/img_8.png" width="500">
+   <img src="Images/img_9.png" width="500">
+   <img src="Images/img_10.png" width="350">
    <img src="Images/img_11.png" width="1000">
    <img src="Images/img_12.png" width="1000">
    <img src="Images/img_13.png" width="1000">
