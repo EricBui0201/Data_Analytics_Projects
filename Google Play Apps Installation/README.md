@@ -56,6 +56,11 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
 - Data Transformation
   - Label Encoding - Ordinal Categorical Variable
   - Binning - Target Variable (5 Installation Brackets)
+    - [1-10,000)
+    - [10,000 - 100,000)
+    - [100,000 - 1,000,000)
+    - [1,000,000 - 10,000,000)
+    - [10,000,000 - 1,000,000,000)
   - Grouping 
 - Feature Scaling
   - Units transformation
