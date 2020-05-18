@@ -23,6 +23,12 @@ The dataset used in this project is retreived from Kaggle, consisting of more th
     - sklearn.cluster
     - sklearn.decomposition
     - sklearn.metrics
+    - sklearn.model_selection
+    - imblearn.pipeline 
+    - imblearn.under_sampling
+    - sklearn.multioutput
+    - sklearn.ensemble
+    - yellowbrick.model_selection
     - kmodes.kmodes
     - warnings
 - Spyder
